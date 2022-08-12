@@ -71,4 +71,4 @@ Get The latest Android Studio [from here](https://developer.android.com/studio/p
   </a>
 
 ## Get it on google play
-<a href='https://play.google.com/store/apps/details?id=com.khalidcoding.notetaking&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.khalidcoding.notetaking&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'  height='45'/></a>
